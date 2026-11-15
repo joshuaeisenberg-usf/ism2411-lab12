@@ -1,2 +1,10 @@
-# ism2411-lab12
-Week 12 lab.
+# ISM2411 Lab 12 — Read a Sales CSV, Write a Cleaned Report
+
+**Name:** Joshua Eisenberg
+
+## How to Run
+
+From this folder:
+
+```bash
+python3 csv_practice.py
